@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pdf
+*.png
+*.webp
+reports/*.json
+reports/*.txt
